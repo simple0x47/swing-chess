@@ -1,0 +1,57 @@
+chess/storage/Database.java
+ chess.storage.Database
+chess/gameplay/world/Player.java
+ chess.gameplay.world.Player
+chess/gameplay/MatchWrapper.java
+ chess.gameplay.MatchWrapper
+chess/ui/utils/BoardTileSynchronizer.java
+ chess.ui.utils.BoardTileSynchronizer
+chess/gameplay/Match.java
+ chess.gameplay.Match
+chess/gameplay/world/Board.java
+ chess.gameplay.world.Board
+chess/gameplay/world/BoardCell.java
+ chess.gameplay.world.BoardCell
+chess/gameplay/world/ChessPiece.java
+ chess.gameplay.world.ChessPiece
+ chess.gameplay.world.ChessPiece$1
+ chess.gameplay.world.ChessPiece$PieceColor
+ chess.gameplay.world.ChessPiece$PieceType
+chess/Main.java
+ chess.Main
+chess/ui/MatchResultPanel.java
+ chess.ui.MatchResultPanel
+chess/ui/MainMenu.java
+ chess.ui.MainMenu
+ chess.ui.MainMenu$1
+ chess.ui.MainMenu$2
+ chess.ui.MainMenu$3
+chess/gameplay/BooleanFlag.java
+ chess.gameplay.BooleanFlag
+chess/gameplay/GameController.java
+ chess.gameplay.GameController
+chess/gameplay/PlayerBoardCellSelection.java
+ chess.gameplay.PlayerBoardCellSelection
+chess/ui/PlayerNamesIntroduction.java
+ chess.ui.PlayerNamesIntroduction
+ chess.ui.PlayerNamesIntroduction$1
+ chess.ui.PlayerNamesIntroduction$2
+ chess.ui.PlayerNamesIntroduction$3
+chess/ui/GameWindow.java
+ chess.ui.GameWindow
+chess/ui/MatchesList.java
+ chess.ui.MatchesList
+ chess.ui.MatchesList$1
+chess/gameplay/PlayerBoardInteraction.java
+ chess.gameplay.PlayerBoardInteraction
+chess/gameplay/MatchResult.java
+ chess.gameplay.MatchResult
+chess/ui/utils/BoardTile.java
+ chess.ui.utils.BoardTile
+chess/gameplay/PieceDisplacement.java
+ chess.gameplay.PieceDisplacement
+ chess.gameplay.PieceDisplacement$1
+chess/ui/SwingGameController.java
+ chess.ui.SwingGameController
+chess/ui/BoardPanel.java
+ chess.ui.BoardPanel
